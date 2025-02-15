@@ -2,6 +2,14 @@
 
 Welth is a personal finance management application that helps you track your income and expenses efficiently. With AI-powered insights, automated email notifications, and a seamless user experience, Welth ensures you stay on top of your finances.
 
+## SS
+
+![Screenshot (92)](https://github.com/user-attachments/assets/45235d17-9229-4b4f-8ad9-c9a87b4bba57)
+![Screenshot (95)](https://github.com/user-attachments/assets/b14b9275-9381-4d9e-adde-eb152a7955c6)
+![Screenshot (94)](https://github.com/user-attachments/assets/16471b01-441b-48ce-ade5-cb481bff5901)
+![Screenshot (93)](https://github.com/user-attachments/assets/c7204ae1-849d-42b5-b724-d2a9ab3905ed)
+
+
 ## Features
 
 - **Transaction Management:** Add and manage transactions (income & expenses).
